@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-excercises",
+  "version": "1.0.0",
+  "description": "Learnings from \"Grokking algorithms\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruczyna/algorithms-excercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kruczyna/algorithms-excercises/issues"
+  },
+  "homepage": "https://github.com/kruczyna/algorithms-excercises#readme"
+}
