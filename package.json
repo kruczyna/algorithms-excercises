@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kruczyna/algorithms-excercises/issues"
   },
-  "homepage": "https://github.com/kruczyna/algorithms-excercises#readme"
+  "homepage": "https://github.com/kruczyna/algorithms-excercises#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
 }
