@@ -4,7 +4,7 @@
   "description": "Learnings from \"Grokking algorithms\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "binary:search": "node binary_search/binarySearch.js"
   },
   "repository": {
     "type": "git",
