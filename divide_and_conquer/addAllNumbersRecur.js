@@ -14,6 +14,10 @@ function sum(arr){
     return arrNumber + sum(arr)
   }
 }
-
+const emptyArr = []
+const oneEleArr = [453]
 const myArray = [2, 3, 4, 234, 6]
-sum(myArray) // 249
+const test = sum(myArray) // 249
+const test2 = sum(emptyArr) // 0
+const test3 = sum(oneEleArr) // 453
+console.log(test, test2, test3)
