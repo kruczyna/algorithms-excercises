@@ -4,7 +4,8 @@
   "description": "Learnings from \"Grokking algorithms\"",
   "main": "index.js",
   "scripts": {
-    "binary:search": "node binary_search/binarySearch.js"
+    "binary:search": "node binary_search/binarySearch.js",
+    "sum:array": "node divide_and_conquer/addAllNumbers.js"
   },
   "repository": {
     "type": "git",
