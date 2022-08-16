@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "binary:search": "node binary_search/binarySearch.js",
-    "sum:array": "node divide_and_conquer/addAllNumbers.js"
+    "sum:array": "node divide_and_conquer/addAllNumbers.js",
+    "sum:array:recursive": "node divide_and_conquer/addAllNumbersRecur.js"
   },
   "repository": {
     "type": "git",
