@@ -4,7 +4,8 @@
   "description": "Learnings from \"Grokking algorithms\"",
   "main": "index.js",
   "scripts": {
-    "binary:search": "node binary_search/binarySearch.js"
+    "binary:search": "node binary_search/binarySearch.js",
+    "sort:array": "node sort_array/sortArray.js"
   },
   "repository": {
     "type": "git",
