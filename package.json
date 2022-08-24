@@ -5,6 +5,10 @@
   "main": "index.js",
   "scripts": {
     "binary:search": "node binary_search/binarySearch.js",
+    "sum:array": "node divide_and_conquer/addAllNumbers.js",
+    "sum:array:recursive": "node divide_and_conquer/addAllNumbersRecur.js",
+    "count:list:items": "node divide_and_conquer/countListItems.js",
+    "find:max:number": "node divide_and_conquer/findMaxNumber.js",
     "sort:array": "node sort_array/sortArray.js"
   },
   "repository": {
