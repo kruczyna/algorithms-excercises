@@ -9,7 +9,9 @@
     "sum:array:recursive": "node divide_and_conquer/addAllNumbersRecur.js",
     "count:list:items": "node divide_and_conquer/countListItems.js",
     "find:max:number": "node divide_and_conquer/findMaxNumber.js",
-    "sort:array": "node sort_array/sortArray.js"
+    "sort:array": "node sort_array/sortArray.js",
+    "quick:sort": "node qucik_sort/quickSort.js",
+    "seach:breadth:first": "node breadth_first/breadth_first_search.js"
   },
   "repository": {
     "type": "git",
